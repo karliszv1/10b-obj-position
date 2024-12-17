@@ -1,0 +1,26 @@
+body{
+    margin: 10;
+}
+.augseja-kaste {
+width:200px;
+border: solid;
+border-width: 10px;
+height: 200px;
+padding: 20px;
+}
+
+.videja-kaste{
+    width: 200px;
+    height: 200px;
+    border: solid 20px;
+    margin-left: 260px;
+    background-color:blueviolet
+}
+
+.apakseja-kaste{
+    width:200px;
+    height: 200px;
+    border: solid 10px;
+    margin-left: 500px;
+    background-color: blue;
+}
